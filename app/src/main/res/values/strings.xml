@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">virtual library</string>
+    <string name="cerca_libri">Cerca Libri</string>
+    <string name="i_mie_libri">I mie libri</string>
+    <string name="la_mia_lista_dei_desideri">La mia Lista dei desideri</string>
+    <string name="virtual_library">Virtual Library</string>
+    <string name="trova_nuovi_libri">Trova nuovi libri</string>
+    <string name="aggiungi_ai_libri_posseduti">aggiungi ai libri posseduti</string>
+    <string name="aggiungi_alla_lista_dei_desideri">aggiungi alla lista dei desideri</string>
+    <string name="i_mie_libri_title">i mie libri</string>
+    <string name="rimuovi_dai_libri_posseduti">rimuovi dai libri posseduti</string>
+    <string name="la_mia_lista_dei_desideri_title">La mia lista dei desideri</string>
+    <string name="rimuovi_dalla_lista_dei_desideri">rimuovi dalla lista dei desideri</string>
+    <string name="aggiungi_ai_libri_posseduti_wishlist">aggiungi ai libri posseduti</string>
+</resources>
